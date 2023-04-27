@@ -20,4 +20,9 @@
   <ItemGroup>
     <Folder Include="Views\" />
   </ItemGroup>
+  <ItemGroup>
+    <Reference Include="RandomizerCore">
+      <HintPath>..\..\RandomizerCore\bin\Release\net6.0\RandomizerCore.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 </Project>
