@@ -16,6 +16,10 @@
   </PropertyGroup>
   <ItemGroup>
     <None Remove="Views\" />
+    <None Remove="Assets.xcassets\AppIcon.appiconset\Icon16.png" />
+    <None Remove="Assets.xcassets\AppIcon.appiconset\Icon128.png" />
+    <None Remove="Assets.xcassets\AppIcon.appiconset\Icon64.png" />
+    <None Remove="Assets.xcassets\AppIcon.appiconset\Icon32.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\" />
